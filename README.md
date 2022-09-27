@@ -4,7 +4,7 @@
 
 In this module, we are are expected to use our knowledge of Pandas and Matplotlib and Python skills to produce the following deliverables:
 * Create a summary DataFrame of the ride-sharing data by city type
-* Create a a multiple line graph that shows the total weekly fares for each type city type
+* Create a a multiple line graph that shows the total weekly fares for each city type
  
 For this, we have been provided with two files namely city_data.csv and ride_data.csv, which have been stored in the resource folder. 
 ~~~python 
