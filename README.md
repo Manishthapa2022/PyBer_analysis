@@ -14,12 +14,12 @@ Using the code above, the two files were merged annd analysis was carried out to
 
 ## Results
 Based on the detailed analysis the following results were obtained:
----
+
 ![Summary DataFrame](https://github.com/Manishthapa2022/PyBer_analysis/blob/main/analysis/PyBer_Summary.png)
 ---
-With reference to the above table, it can be seen that there was overwhelming high number of drivers in Urban areas (2405) as compared to Suburban (490) and Rural areas (78). Correspondingly, this resulted in high total fares for Urban areas ($ 39,854.38) which is approx 9.21 times as compared to Rural areas ($ 4,327.93) and approx 2 times when compared to Suburban areas ($ 19,356.33).
+With reference to the above table, it can be seen that there was overwhelming high number of drivers in Urban areas (2405) as compared to Suburban (490) and Rural areas (78). Correspondingly, this resulted in high total fares for Urban areas ($ 39,854.38) which is approx 9.21 times as compared to Rural areas ($ 4,327.93) and approx 2 times when compared to Suburban areas ($ 19,356.33)
 When the average fare per ride and average fare per driver is taken into account there is major contrast as the Rural drivers make more money per ride and as per Driver when compared to both Urban annd Suburban drivers. 
----
+
 ![](https://github.com/Manishthapa2022/PyBer_analysis/blob/main/analysis/PyBer_fare_summary.png)
 ---
 Further analysis of the Multiple-line chart for city type on a weekly basis provides th following results:
