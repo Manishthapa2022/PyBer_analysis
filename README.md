@@ -22,10 +22,10 @@ When the average fare per ride and average fare per driver is taken into account
 
 ![](https://github.com/Manishthapa2022/PyBer_analysis/blob/main/analysis/PyBer_fare_summary.png)
 ---
-Further analysis of the Multiple-line chart for city type on a weekly basis provides th following results:
-* The lowest total fare for both Urban ($ 1,661.68) and Suburban ($ 721.60) cities can be seen for the month of Jan 2019. 
-* For Urban cities, the peak months are Feb and March when the tatal fares have gone to approx. $ 2500. 
-
+A Data frame was further created from from 1st Jan 2019 to 28th April 2019 and this was furrther divided into weekly bin to show sum of fares for each week based on city types. A Multiple-line chart provided the following insights:
+* The lowest total weekly fare for both Urban ($ 1,661.68) and Suburban ($ 721.60) cities can be seen in the month of Jan 2019. 
+* For Urban cities, the peak weeks are in Feb and March when the tatal fares have gone to approx. $ 2500, whereas for the Suburban areas, it can be seen that the highest weekly total fare was achieved for the month of Feb at approx. $ 1,400. 
+* Overall, it can been seen that the overall weekly fares were the highest for the Urban cities as compared to Suburban and Rural areas. For Rural areas, the business was not able to gathr muc pace and total weekly fares were marginal riding along the $ 200 to $ 300 weekly mark. 
 
 ## Summary
 
